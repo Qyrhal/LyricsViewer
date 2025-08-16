@@ -1,0 +1,2 @@
+ffmpeg-python # still requires ffmpeg (sudo apt install ffmpeg)
+openai-whisper
