@@ -1,0 +1,19 @@
+{
+    "theme": "dark", // Options: "dark", "light"
+    "fontSize": 16,
+    "fontFamily": "Segoe UI, Arial, sans-serif",
+    "showTimestamps": true,
+    "autoScroll": true,
+    "lyricsSource": "local", // Options: "local", "online"
+    "window": {
+        "width": 800,
+        "height": 600,
+        "rememberPosition": true
+    },
+    "recentFilesLimit": 10,
+    "language": "en-US",
+    "logging": {
+        "level": "info",
+        "file": "app.log"
+    }
+}
